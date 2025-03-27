@@ -3,6 +3,33 @@ This was an example project that was taken from the YouTube channel, Data with B
 
 As the new data analyst, I have to provide the information that the HR manager wants. The HR manager wants a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
+## Overall Thought Process Using The Data
+1) Constructing The Data Source
+- Collect the data
+- Connect the data
+- Check the data quality
+- Check the data types
+- Understand & explore the data
+  
+2) Building Charts
+- Analyze requirements and choose chart
+- Initial format of sheet
+- Create calculated fields and test
+- Build chart
+- Format chart
+  
+3) Building Dashboards
+- Plan the dashboard (dashboard mockup and container mockup)
+- Create container structure
+- Putting everything together
+- Fixing colors
+- Fix texts
+- Refine charts
+- Fix spacing (inner and outer spacing)
+- Fix tooltips
+- Add filters and legends
+- Add logos and icons
+
 ## Summary View
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
 
