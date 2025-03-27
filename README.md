@@ -3,6 +3,17 @@ This was an example project that was taken from the YouTube channel, Data with B
 
 As the new data analyst, I have to provide the information that the HR manager wants. The HR manager wants a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
+## Summary View
+The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
+
+## Overview
+The Overview section should provide a snapshot of the overall HR metrics, including:
+- Display the total number of hired employees, active employees, and terminated employees.
+- Visualize the total number of hired and terminated employees over the years.
+- Present a breakdown of total employees by department and job titles.
+- Compare total employees between headquarters (HQ) and branches (New York is the HQ)
+- Show the distribution of employees by city and state.
+
 ## Overall Thought Process Using The Data
 1) Constructing The Data Source
 - Collect the data
@@ -29,17 +40,6 @@ As the new data analyst, I have to provide the information that the HR manager w
 - Fix tooltips
 - Add filters and legends
 - Add logos and icons
-
-## Summary View
-The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
-
-## Overview
-The Overview section should provide a snapshot of the overall HR metrics, including:
-- Display the total number of hired employees, active employees, and terminated employees.
-- Visualize the total number of hired and terminated employees over the years.
-- Present a breakdown of total employees by department and job titles.
-- Compare total employees between headquarters (HQ) and branches (New York is the HQ)
-- Show the distribution of employees by city and state.
 
 ## Demographics
 The Demographics section should offer insights into the composition of the workforce, including:
