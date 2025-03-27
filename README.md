@@ -50,7 +50,7 @@ The data seen in this project was sample data created by ChatGPT. Below are all 
 - Termination Date: Assigned to a subset of employees (11.2% of the total) with specific probabilities for each year from 2015 to 2024, ensuring the termination date is at least 6 months after the hire date
 - Adjusted Salary: Calculated based on gender, education level, and age, applying specific multipliers and increments
 
-## Overall Thought Process Using The Data
+## Overall Thought Process Using The Data In Tableau
 1) Constructing The Data Source
 - Collect the data
 - Connect the data
