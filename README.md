@@ -34,8 +34,7 @@ Users should be able to filter the list based on any of the available columns.
 
 ## Data
 The data seen in this project was sample data created by ChatGPT. Below are all of the attributes that you will see within the dataset. There is a total of about 8950 records for human resources.
-
-Employee ID: A unique identifier
+- Employee ID: A unique identifier
 - First Name: Randomly generated
 - Last Name: Randomly generated
 - Gender: Randomly chosen with a 46% probability for ‘Female’ and a 54% probability for ‘Male’
