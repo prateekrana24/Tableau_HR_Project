@@ -14,33 +14,6 @@ The Overview section should provide a snapshot of the overall HR metrics, includ
 - Compare total employees between headquarters (HQ) and branches (New York is the HQ)
 - Show the distribution of employees by city and state.
 
-## Overall Thought Process Using The Data
-1) Constructing The Data Source
-- Collect the data
-- Connect the data
-- Check the data quality
-- Check the data types
-- Understand & explore the data
-  
-2) Building Charts
-- Analyze requirements and choose chart
-- Initial format of sheet
-- Create calculated fields and test
-- Build chart
-- Format chart
-  
-3) Building Dashboards
-- Plan the dashboard (dashboard mockup and container mockup)
-- Create container structure
-- Putting everything together
-- Fixing colors
-- Fix texts
-- Refine charts
-- Fix spacing (inner and outer spacing)
-- Fix tooltips
-- Add filters and legends
-- Add logos and icons
-
 ## Demographics
 The Demographics section should offer insights into the composition of the workforce, including:
 - Present the gender ratio in the company.
@@ -76,3 +49,30 @@ The data seen in this project was sample data created by ChatGPT. Below are all 
 - Birth Date: Generated based on age group distribution and job title requirements, ensuring consistency with the hire date
 - Termination Date: Assigned to a subset of employees (11.2% of the total) with specific probabilities for each year from 2015 to 2024, ensuring the termination date is at least 6 months after the hire date
 - Adjusted Salary: Calculated based on gender, education level, and age, applying specific multipliers and increments
+
+## Overall Thought Process Using The Data
+1) Constructing The Data Source
+- Collect the data
+- Connect the data
+- Check the data quality
+- Check the data types
+- Understand & explore the data
+  
+2) Building Charts
+- Analyze requirements and choose chart
+- Initial format of sheet
+- Create calculated fields and test
+- Build chart
+- Format chart
+  
+3) Building Dashboards
+- Plan the dashboard (dashboard mockup and container mockup)
+- Create container structure
+- Putting everything together
+- Fixing colors
+- Fix texts
+- Refine charts
+- Fix spacing (inner and outer spacing)
+- Fix tooltips
+- Add filters and legends
+- Add logos and icons
