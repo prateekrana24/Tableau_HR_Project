@@ -33,7 +33,7 @@ Provide a comprehensive list of all employees with necessary information such as
 Users should be able to filter the list based on any of the available columns.
 
 ## Data
-The data seen in this project was sample data created by ChatGPT. Below are all of the attributes that you will see within the dataset. There is a total of about 8950 records for human resources.
+The data seen in this project was sample data created by ChatGPT. Below are all of the attributes that you will see within the dataset. There is a total of about 8950 records for human resources located in the HumanResources.csv file.
 - Employee ID: A unique identifier
 - First Name: Randomly generated
 - Last Name: Randomly generated
