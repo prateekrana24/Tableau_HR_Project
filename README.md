@@ -1,6 +1,5 @@
 # Tableau_HR_Project
-- This was an example project that was taken from the YouTube channel, Data with Baraa, and it's called Complete HR Tableau Project End-to-End | Like I Do in My Real Projects
-- https://www.youtube.com/watch?v=UcGF09Awm4Y
+- This was an example project that was taken from the YouTube channel, Data with Baraa, and it's called Complete HR Tableau Project End-to-End | Like I Do in My Real Projects (https://www.youtube.com/watch?v=UcGF09Awm4Y)
 
 - As the new data analyst, I have to provide the information that the HR manager wants. The HR manager wants a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
