@@ -10,6 +10,11 @@ The images of the dashboards are below as well:
 
 ![Tableau_HR_Dashboard_Main](https://github.com/user-attachments/assets/34fdc866-8034-43d9-8db7-4859ade32195)
 
+## Design of HR Dashboard In Draw.io
+Creating a mock-up sketch before building a Tableau dashboard helps visualize the layout, ensure clarity in data storytelling, and identify key metrics and visualizations needed. It streamlines the development process, reduces rework, and ensures alignment with stakeholder expectations.
+![image](https://github.com/user-attachments/assets/f00084fd-37f9-4ddb-8fde-ae2d4bd70b86)
+
+
 ## Summary View
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
 
