@@ -5,6 +5,10 @@ As the new data analyst, I have to provide the information that the HR manager w
 
 ## Summary View
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
+![Tableau_HR_Dashboard](https://github.com/user-attachments/assets/8a73cd40-b4fb-44c7-ab78-6bbcff533aef)
+
+![Tableau_HR_Dashboard_Main](https://github.com/user-attachments/assets/34fdc866-8034-43d9-8db7-4859ade32195)
+
 
 ## Overview
 The Overview section should provide a snapshot of the overall HR metrics, including:
@@ -26,11 +30,6 @@ The Demographics section should offer insights into the composition of the workf
 The income analysis section should focus on salary-related metrics, including:
 - Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
 - Present how the age correlate with the salary for employees in each department.
-
-## Employee Records View
-Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
-
-Users should be able to filter the list based on any of the available columns.
 
 ## Data
 The sample data seen in this project was randomized and created from the hr_data_generator.py file. Below are all of the attributes that you will see within the dataset. There is a total of about 8950 records for human resources located in the HumanResources.csv file.
