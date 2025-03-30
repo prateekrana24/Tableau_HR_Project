@@ -5,6 +5,10 @@ As the new data analyst, I have to provide the information that the HR manager w
 
 ## Summary View
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
+
+You can view my Tableau Project by going to this link: https://public.tableau.com/app/profile/prateek8806/viz/HRTableauProject_17427589357660/HRSummary
+
+The images of the dashboards are below as well:
 ![Tableau_HR_Dashboard](https://github.com/user-attachments/assets/8a73cd40-b4fb-44c7-ab78-6bbcff533aef)
 
 ![Tableau_HR_Dashboard_Main](https://github.com/user-attachments/assets/34fdc866-8034-43d9-8db7-4859ade32195)
