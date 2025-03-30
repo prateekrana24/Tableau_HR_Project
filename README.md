@@ -1,10 +1,7 @@
 # Tableau_HR_Project
 This was an example project that was taken from the YouTube channel, Data with Baraa, and it's called Complete HR Tableau Project End-to-End | Like I Do in My Real Projects (https://www.youtube.com/watch?v=UcGF09Awm4Y)
 
-As the new data analyst, I have to provide the information that the HR manager wants. The HR manager wants a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
-
-## Summary View
-The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
+As the data analyst, I have to provide the information that the HR manager wants. The HR manager wants a comprehensive dashboard to analyze human resources data, providing summary views for high-level insights.
 
 You can view my Tableau Project by going to this link: https://public.tableau.com/app/profile/prateek8806/viz/HRTableauProject_17427589357660/HRSummary
 
@@ -13,6 +10,8 @@ The images of the dashboards are below as well:
 
 ![Tableau_HR_Dashboard_Main](https://github.com/user-attachments/assets/34fdc866-8034-43d9-8db7-4859ade32195)
 
+## Summary View
+The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
 
 ## Overview
 The Overview section should provide a snapshot of the overall HR metrics, including:
